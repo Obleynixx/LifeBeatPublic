@@ -1,0 +1,1 @@
+For you to use this Project you need Dotween PRO, import it onto Assets/Plugins/Demigiant/ to get it working and make sure to mark Textmeshpro as extra asset to import

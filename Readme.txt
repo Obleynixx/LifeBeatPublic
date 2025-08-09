@@ -1,4 +1,4 @@
-For you to use this Project without errors you'll need Dotween Pro, if you don't have it you can install dotween lite and remove all tweens related to TextMeshPro(this will break the game unless you make your own tweens to replace it).
+For you to use this Project without errors you'll need Dotween, if you don't have it you can install dotween(HotweenV2) from the asset store.
 
 This game was made for the GMTK jam 2025 
 https://itch.io/jam/gmtk-2025/rate/3767846
